@@ -17,7 +17,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" title="" width="50" height="50">&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="50" height="50">&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45">
-
-
-      
 </div>
+<br/>
+<h3>Me in Codewars</h3>
+<a href="https://t.me/leymodev">
+    <img src="https://www.codewars.com/users/islamdev/badges/large" alt="Telegram">
+</a>
