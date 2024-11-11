@@ -21,5 +21,5 @@
 <br/>
 <h3>Me in Codewars</h3>
 <a href="https://t.me/leymodev">
-    <img src="https://www.codewars.com/users/islamdev/badges/large" alt="Telegram">
+    <img src="https://www.codewars.com/users/kurievdev/badges/large" alt="Codewars">
 </a>
